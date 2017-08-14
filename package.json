@@ -1,0 +1,26 @@
+{
+  "name": "react-lifecycle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "start": "webpack-dev-server --hot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeanyJer/react-lifecycle.git"
+  },
+  "author": "xu jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeanyJer/react-lifecycle/issues"
+  },
+  "homepage": "https://github.com/jeanyJer/react-lifecycle#readme",
+  "dependencies": {
+    "babel-core": "^6.25.0",
+    "babel-loader": "^7.1.1",
+    "webpack": "^3.5.4"
+  }
+}
